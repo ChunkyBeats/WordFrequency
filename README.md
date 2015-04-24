@@ -22,3 +22,8 @@ Word Frequency was coded by:
 Cory Ribson (crbi2550@gmail.com)
 
 No known bugs exist at the time this README was created.
+
+This has been deployed to Heroku, and can be accessed through the following link:
+https://limitless-journey-3294.herokuapp.com
+And the git link:
+https://git.heroku.com/limitless-journey-3294.git
