@@ -7,7 +7,7 @@ describe('String#word_freq') do
   end
 
   it('will check if no instances of the key were found') do
-    expect(("tigers").word_freq("I saw penguins at the zoo")).to(eq("No instances of your key word were found"))
+    expect(("tigers").word_freq("I saw penguins at the zoo")).to(eq("0"))
   end
 
   it('will check if any input was found for the key word') do
